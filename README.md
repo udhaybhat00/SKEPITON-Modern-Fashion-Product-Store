@@ -13,7 +13,7 @@
 
 ## 📸 Demo
 
-Explore the live demo here: 👉 [SKEPITON Live Demo](https://skeption.lovestoblog.com)
+Explore the live demo here: 👉 [SKEPITON Live Demo](https://skepiton.lovestoblog.com)
 
 You can view the homepage, browse products, and navigate through different sections like About, Shop, Blog, and Contact.
 
