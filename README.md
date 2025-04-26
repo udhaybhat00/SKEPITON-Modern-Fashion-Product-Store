@@ -67,7 +67,7 @@ You can view the homepage, browse products, and navigate through different secti
 
 2. **Navigate into the project folder:**
    ```bash
-   cd skepiton
+   cd SKEPITON-Modern-Fashion-Product-Store
    ```
 
 3. **Open `index.html`** in your browser manually, or launch a live server (VS Code extension recommended).
